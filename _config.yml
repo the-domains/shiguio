@@ -1,19 +1,4 @@
-name: shiguio
-favicon: null
-layout_spectrum: 0.7795301135629416
 typography_spectrum: 0.8651096443645656
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#9D2D3C'
@@ -25,4 +10,20 @@ color:
   lightness: 0.9857961935922503
   saturation: 0.11854236805811524
   rhythmicContrast: 0.37205398664809763
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.7795301135629416
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: shiguio
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: I am a Strategic Designer
 purpose: []
